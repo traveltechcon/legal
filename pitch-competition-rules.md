@@ -81,3 +81,8 @@ The relationship between you and TTC is one of independent contractors. Neither 
 ## Choice of Law, Dispute Resolution
 
 This Agreement shall be deemed to have been entered into and shall be construed and enforced in accordance with the laws of the State of California as applied to contracts made and to be performed entirely within California, without giving effect to the state’s conflicts of law statute. Any controversy, dispute or claim arising out of or related to the agreement or your participation in the competition shall be settled by an arbitrator, within San Mateo County, California subject to the rules and regulations of the American Arbitration Association then in effect, except that such arbitration shall be handled by a single arbitrator selected in accordance with such rules and regulations. Each party to any arbitration shall bear its own costs, including attorney’s fees. Failure to appear at any arbitration hearing entitles the arbitrator to proceed ex parte.
+
+Travel Tech Con
+First Frontier LLC
+1025 Alameda De Las Pulgas, #642
+Belmont CA 94002
