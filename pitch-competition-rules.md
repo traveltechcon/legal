@@ -22,13 +22,10 @@ That was easy, isn't it?
 ## Process
 
   1. Fill out an application form on our [F6S page](http://f6s.com/traveltechcon/)
-  2. Wait for us to get back to you
-  3. If you are selected for the next round, do one of the following:
-    a. attend a preliminary round on May 8th or 10th (500 Startups Office in San Francisco, 6:00pm)
-    b. send us a 2-minute video pitch (we'll only consider YouTube videos)
-  4. If you are selected to advance to the finals, please show up at the 500 Startups office on May 22nd at noon
+  2. Attend the training days on May 8th and 10th, where 500 Startups partners will give you feedback on your pitch (optional)
+  3. We will announce the 20 finalists on May 15th
+  4. If you are selected to advance to the finals, you have to be physically present at [500 Startups office](https://goo.gl/maps/DszBuskr2oy) on May 22nd at 11:30 am.
   5. Winners will be announced at the [conference day on May 24th](http://2017.traveltechcon.com)
-  6. Profit!
 
 ## Pitch Format
 
@@ -39,8 +36,6 @@ You will have exactly 2 minutes 30 seconds to pitch your idea. We will turn off 
 Each judge participating in the competition has to provide a prize that they will give to the startup they like the most. Each judge will use their own criteria to select a winner.
 
 Please note that we're just providing a platform for startups and judges to connect, we will not be responsible for judges decisions or the delivery of the prizes, which we'll leave to the discretion of the judges and their organizations, who may or may not ask you to sign additional documents, such as liability/publicity release, etc.
-
-# Lawyers love this stuff
 
 ## Name and Likeness Rights
 
