@@ -4,7 +4,7 @@
 
 TTC'17 Pitch Competition is the second annual pitch competition organized by Travel Tech Con, legal name First Frontier LLC ("TTC", "we" or "us").
 
-This year, the final 20 startups divided into two cohorts (early stage and VC-backed) will make it to the final round, hosted by 500 Startups at their San Francisco office on May 22nd.
+This year, the final 20 startups divided into two cohorts (early stage and VC-backed) will make it to the final round, hosted by [500 Startups](http://500.co) at their San Francisco office on May 22nd.
 
 Please visit [2017.traveltechcon.com](http://2017.traveltechcon.com) for information about judges, prizes, etc.
 
@@ -12,20 +12,22 @@ Please visit [2017.traveltechcon.com](http://2017.traveltechcon.com) for informa
 
 You, the entrant, can participate in the pitch competition, if you meet the following criteria:
 
-a. you have incorporated less than two years ago
-b. you've raised less than $1M
-c. you are actively working on your product
-d. you agree with the rules we describe in this document
-
-That was easy, isn't it?
+  - you have incorporated less than two years ago
+  - you've raised less than $1M
+  - you are actively working on your product
+  - you agree with the rules we describe in this document
 
 ## Process
 
   1. Fill out an application form on our [F6S page](http://f6s.com/traveltechcon/)
   2. Attend the training days on May 8th and 10th, where 500 Startups partners will give you feedback on your pitch (optional)
   3. We will announce the 20 finalists on May 15th
-  4. If you are selected to advance to the finals, you have to be physically present at [500 Startups office](https://goo.gl/maps/DszBuskr2oy) on May 22nd at 11:30 am.
+  4. If you are selected to advance to the finals, you have to be physically present at 500 Startups office ([map](https://goo.gl/maps/DszBuskr2oy)) on May 22nd at 11:30 am.
   5. Winners will be announced at the [conference day on May 24th](http://2017.traveltechcon.com)
+
+The 20 startups that will be selected to pitch at the Gala Pitch Competition on May 22nd, will receive full conference tickets, including workshop day (May 23rd) and conference day (May 24th), limited to one ticket per startup.
+
+Note: [buying a conference ticket](https://www.eventbrite.com/e/travel-tech-con-2017-tickets-30070691247) does not guarantee you a spot at the final pitch competition on May 22nd.
 
 ## Pitch Format
 
